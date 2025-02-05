@@ -1,0 +1,15 @@
+img{
+    width: 40px;
+}
+header{
+    height: 100px;
+    background-color: gold;
+}
+.container-fluid{
+    display:inline-block;
+    height: 60px;
+    background-color: #0f1111;
+}
+.bold{
+    font-weight: 700;
+}
