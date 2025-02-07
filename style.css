@@ -82,3 +82,29 @@ ul li a{
 .contaner1{
     display: flex;
 }
+
+/* -----------4rth---------- */
+
+.signin{
+    background-color: yellow;
+    width: 200px;
+    border-radius: 30px;
+    text-align: center;
+}
+.signin:hover{
+    background-color: rgb(233, 157, 42);
+}
+
+#ftop{
+
+    background-color: navy;
+    color: white;
+    text-align: center;
+}
+/* ---------------footer------------------ */
+
+.col-3, a, h6{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 15px;
+}
